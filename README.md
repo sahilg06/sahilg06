@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahil Goyal</h1>
+<h3 align="center">A Machine learning enthusiast from IIT Roorkee, India</h3>
+
+- 📫 How to reach me **sahilgoyal6801@gmail.com**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilg06&show_icons=true&locale=en&layout=compact" alt="sahilg06" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilg06&show_icons=true&locale=en" alt="sahilg06" /></p>
+
 
 <!--
 **sahilg06/sahilg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
