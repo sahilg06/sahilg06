@@ -4,7 +4,7 @@
 - 🔭 I’m currently exploring **Multimodal learning**
 - 🌱 I’m currently learning **Data Structures and Algorithms (with C++ implementation)**
 - 👯 I’m looking to collaborate on **Computer Vision / Multimodal research**
-- 📫 How to reach me **sahilgoyal6801@gmail.com**
+- 📫 How to reach me **sahilgoyal6801@gmail.com**, **[LinkedIn](https://www.linkedin.com/in/sahil-goyal-4222371b4/)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilg06&show_icons=true&locale=en&layout=compact" alt="sahilg06" /></p>
 
