@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Goyal</h1>
-<h3 align="center">A Machine learning enthusiast from IIT Roorkee, India</h3>
+<h3 align="center">A prefinal year student from IIT Roorkee, India</h3>
 
-- 🔭 I’m currently exploring **Multimodal learning**
-- 🌱 I’m currently learning **Data Structures and Algorithms (with C++ implementation)**
+<!-- - 🌱 I’m currently learning **Data Structures and Algorithms (with C++ implementation)** -->
+- 🔭 I’m currently working on **Multimodal learning**
 - 👯 I’m looking to collaborate on **Computer Vision / Multimodal research**
 - 📫 How to reach me **sahilgoyal6801@gmail.com**, **[LinkedIn](https://www.linkedin.com/in/sahil-goyal-4222371b4/)**
 
