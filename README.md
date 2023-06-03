@@ -6,10 +6,12 @@
 - 👯 I’m looking to collaborate on **Computer Vision / Multimodal research**
 - 📫 How to reach me **sahilgoyal6801@gmail.com**, **[LinkedIn](https://www.linkedin.com/in/sahil-goyal-4222371b4/)**
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilg06&show_icons=true&locale=en&layout=compact" alt="sahilg06" /></p>
+![](https://komarev.com/ghpvc/?username=sahilg06)
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilg06&show_icons=true&locale=en&layout=compact" alt="sahilg06" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilg06&show_icons=true&locale=en" alt="sahilg06" /></p>
- -->
+
 
 <!--
 **sahilg06/sahilg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
