@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Goyal</h1>
 <h3 align="center">A final year student from IIT Roorkee, India</h3>
 
-- 🔭 I’m currently working on **Multimodal Content** (Graphic Designs)
+- 🔭 I’m currently working with **Multimodal Content** (Graphic Designs)
 - 👯 I’m looking to collaborate on **Computer Vision / Multimodal research**
 - 🤔 I’m looking for help with **Metric Learning**
 - 💻 I often try to contribute to **Open Source** (especially [PyTorch-Vision](https://github.com/pytorch/vision))
