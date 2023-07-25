@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working with **Multimodal Content** (Graphic Designs)
 - 👯 I’m looking to collaborate on **Computer Vision / Multimodal research**
-- 🤔 I’m looking for help with **Metric Learning and Genetic Algorithms**
 - 💻 I often try to contribute to **Open Source** (especially [PyTorch-Vision](https://github.com/pytorch/vision))
 - 📫 How to reach me **sahilgoyal6801@gmail.com**, **[LinkedIn](https://www.linkedin.com/in/sahil-goyal-4222371b4/)**
 
@@ -16,6 +15,7 @@
 
 <!--
 **sahilg06/sahilg06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 I’m looking for help with **Metric Learning and Genetic Algorithms**
 
 Here are some ideas to get you started:
 
