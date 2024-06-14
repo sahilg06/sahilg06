@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Goyal</h1>
 <h3 align="center">A Research Associate at Google DeepMind (India)</h3>
 
-- 🔭 I’m currently working on **Efficient Auto Regressive Models in Vision**
+- 🔭 I’m currently working on **Efficient Vision Transformers**
 - 👯 I’m looking to collaborate on **Computer Vision / Multimodal research**
 - 💻 I often try to contribute to **Open Source** (especially [PyTorch-Vision](https://github.com/pytorch/vision))
 - 📫 How to reach me **sahilgoyal6801@gmail.com**, **[LinkedIn](https://www.linkedin.com/in/sahil-goyal-4222371b4/)**
